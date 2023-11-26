@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux'
 import { getAllAppointments } from '../../Redux/reducers/appointmentsReducer/reducers.js'
-import { setAppointmentsList } from '../../Redux/reducers/appointmentsReducer/index.js'
 import APPOINTMENT from '../APPOINTMENT/APPOINTMENT.jsx';
 
 

@@ -2,7 +2,7 @@ import React from 'react'
 import FORM from './components/FORM/FORM.jsx'
 import DASHBOARD from './components/DASHBOARD/DASHBOARD.jsx'
 import NAVBAR from './components/NAV/NAVBAR.jsx'
-import { Route, Router, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import HOME from './components/HOME/HOME.jsx';
 import DETAIL from './components/DETAIL/DETAIL.jsx';
 
